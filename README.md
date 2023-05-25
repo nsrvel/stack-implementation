@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/nsrvel/stack-implementation/blob/main/image.png" style="width: 50%;">
+    <img src="https://github.com/nsrvel/stack-implementation/blob/main/image.png" style="max-width: 5%;">
 </p>
 
 -   `push`: Digunakan untuk menambahkan elemen ke stack. Elemen baru ditambahkan ke akhir list `data`.
