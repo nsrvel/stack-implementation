@@ -1,3 +1,5 @@
+![Example Image](https://example.com/image.jpg){width=300px}
+
 Dalam contoh di atas, kami membuat kelas `Stack` yang menggunakan list `data` untuk menyimpan elemen-elemen stack. Terdapat beberapa metode yang diimplementasikan pada kelas `Stack`:
 
 -   `push`: Digunakan untuk menambahkan elemen ke stack. Elemen baru ditambahkan ke akhir list `data`.
