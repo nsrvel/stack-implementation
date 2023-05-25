@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-    ![Example Image](https://github.com/nsrvel/stack-implementation/blob/main/image.jpg)
-</div>
+<p align="center">
+    <img src="https://github.com/nsrvel/stack-implementation/blob/main/image.png">
+</p>
 
 -   `push`: Digunakan untuk menambahkan elemen ke stack. Elemen baru ditambahkan ke akhir list `data`.
 -   `pop`: Menghapus dan mengembalikan elemen teratas dari stack. Jika stack kosong, akan memunculkan pengecualian (exception).
